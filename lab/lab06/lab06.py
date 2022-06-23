@@ -87,6 +87,8 @@ def insert_items(lst, entry, elem):
             lst.insert(i+1, elem)
             i += 2
         else:
+
+            
             i += 1
     return lst
 
